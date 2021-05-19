@@ -4,6 +4,11 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
+  "keywords": [
+    "notion",
+    "notion-api",
+    "graphql"
+  ],
   "author": {
     "email": "r@rodg.co",
     "name": "Rodrigo Couto",
